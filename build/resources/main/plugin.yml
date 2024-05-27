@@ -1,0 +1,7 @@
+name: Maasti
+version: '1.0'
+main: fr.har.maasti.Maasti
+api-version: '1.20'
+commands:
+  complete:
+    description: complete command
